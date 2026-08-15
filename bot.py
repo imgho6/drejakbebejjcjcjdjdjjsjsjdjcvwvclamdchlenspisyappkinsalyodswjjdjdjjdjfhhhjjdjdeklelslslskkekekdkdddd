@@ -339,7 +339,7 @@ async def gifts_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # ============================================================
 
 def main():
-    if BOT_TOKEN == "8883290115:AAHY0DoUM0Pt_XBoQiDFe-FoLSN_t4SEM0o":
+    if BOT_TOKEN == "ВСТАВ_СЮДИ_ТОКЕН_ВІД_BOTFATHER":
         raise RuntimeError(
             "Ти не вставив BOT_TOKEN у код!"
         )
